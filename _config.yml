@@ -112,11 +112,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "November 22, 2016"
+    description: "Presentation at C&ESAR b*tch!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "November 24, 2016"
+    description: "Website created"
 
 # First image of the Timeline
 
