@@ -111,12 +111,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "November 22, 2016"
-    description: "Presentation at C&ESAR b*tch!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "November 24, 2016"
     description: "Website created"
+  - image: "/img/timeline/spidertocat.png"
+    date: "November 22, 2016"
+    description: "Presentation at C&ESAR b*tch!"
 
 # First image of the Timeline
 
