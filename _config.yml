@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Stealing data from your daily wireless devices."
+  - text: "Proudly made at CentraleSupélec Rennes, 2016"
 
 me-img: "/img/jetpacktocat.png"
 
